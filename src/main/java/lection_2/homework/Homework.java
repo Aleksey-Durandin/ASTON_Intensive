@@ -1,5 +1,7 @@
 package lection_2.homework;
 
+import lection_2.homework.MergeSort.MergeSort;
+
 import java.util.LinkedList;
 import java.util.List;
 
@@ -32,8 +34,5 @@ public class Homework {
         for (Object e: arr2) {
             System.out.println(e);
         }
-
-        MyLinkedList<Integer> l1 = new MyLinkedList<>();
-        l1.add(1, 1);
     }
 }

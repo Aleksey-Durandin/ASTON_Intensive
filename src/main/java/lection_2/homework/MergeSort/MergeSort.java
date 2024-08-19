@@ -1,4 +1,4 @@
-package lection_2.homework;
+package lection_2.homework.MergeSort;
 
 import java.util.ArrayList;
 import java.util.List;
